@@ -65,15 +65,7 @@ My projects combine software development, data analytics, artificial intelligenc
     ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
     ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-- **[Internship Tracker](https://github.com/nataliaocmo/INTERNSHIP-TRACKER)** — *In progress*
-  - Personal web application for managing internship applications, tracking statuses, and visualizing application timelines.
-  - **Technologies:**
-    
-    ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-    ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-    ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-    ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
+  
 - **[Italian Restaurant Website](YOUR_REPOSITORY_URL)**
   - Website project focused on an interactive web interface and application functionality.
   - **Technologies:** HTML, CSS, JavaScript, PHP
@@ -94,6 +86,17 @@ My projects combine software development, data analytics, artificial intelligenc
     ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
     ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
     ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+
+- **[SweaterHub]("https://github.com/nataliaocmo/sweaterhub")**
+- A mobile app that allows users to personalize hoodies with unique designs using external image APIs and their own photos. It also features an integrated virtual assistant that provides real-time support, combining creativity and technology for a seamless customization experience.
+- **Technologies:**  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
+![Objective--C](https://img.shields.io/badge/Objective--C-438EFF?style=flat&logo=apple&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
 
 #### Other Software Projects
 
@@ -122,9 +125,10 @@ My projects combine software development, data analytics, artificial intelligenc
 
 ### IoT, Arduino & Microcontrollers
 - **[AESA: IoT Monitoring System — Hof University](https://github.com/nataliaocmo/AESA)**
-  - IoT monitoring project combining hardware and software to collect and visualize data, using Google AI Studio during the software development phase.
+  - IoT monitoring project combining hardware and software to collect and visualize data, using Google AI Studio during the software development   phase. Exploring the integration of hardware, sensors, and connected functionality
   - **Technologies:**
     
+    IoT, M5Stack, Sensors,
     ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
     ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
     ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -137,8 +141,6 @@ My projects combine software development, data analytics, artificial intelligenc
     ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
     ![Microcontrollers](https://img.shields.io/badge/Microcontrollers-607D8B?style=flat-square)
     `RGB Processing` `LEDs` `LCD`
-
-- **[AESA IoT Assistant](YOUR_REPOSITORY_URL)**
   - IoT-oriented project exploring the integration of hardware, sensors, and connected functionality.
   - **Technologies:** IoT, M5Stack, Sensors
 

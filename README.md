@@ -40,21 +40,12 @@
 
 My projects combine software development, data analytics, artificial intelligence, hardware, and automation to solve real-world problems.
 
-### Data Analytics & Business Intelligence
-
-- **[Handball Performance Analytics](YOUR_REPOSITORY_URL)**
-  - Power BI dashboard project focused on exploring performance data for the Bogotá Handball League.
-  - **Technologies:**
-    
-    ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-    ![Data Analytics](https://img.shields.io/badge/Data_Analytics-217346?style=flat-square)
-
 ### Software Development Projects
 
 #### Web & Desktop Development
 
 - **[EDUNOW — Offline Gamified Learning](https://github.com/Nightjuanes/Edunow)**
-  - Educational software designed to support learning in rural communities through offline access and gamified learning experiences.
+  Educational software designed to support learning in rural communities through offline access and gamified learning experiences.
   - **Technologies:**
     
     ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -65,22 +56,36 @@ My projects combine software development, data analytics, artificial intelligenc
     ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
     ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
+-**[DNP dashboard - Inovasys](https://github.com/nataliaocmo/Innovasys-app)**
+web application prototype featuring a user interface for government entities, including an entity selection and login page, a main navigation menu, and an informational section. The project focuses on designing an organized and user-friendly interface to navigate between the platform's main sections.
+-**Technologies**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
   
-- **[Italian Restaurant Website](YOUR_REPOSITORY_URL)**
-  - Website project focused on an interactive web interface and application functionality.
-  - **Technologies:** HTML, CSS, JavaScript, PHP
+- **[Il Migliore- Italian Restaurant Website](https://github.com/nataliaocmo/RISTORANTE)**
+  Website project focused on an interactive web interface and application functionality.
+  - **Technologies:** 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Blade](https://img.shields.io/badge/Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 #### Mobile App Development
 
-- **[FEDEGÁN Mobile Application](YOUR_REPOSITORY_URL)**
-  - Mobile application developed for the livestock sector.
+- **[FEDEGÁN Mobile Application](https://github.com/nataliaocmo/FedeGanApp)**
+  Mobile application developed for the livestock sector.
   - **Technologies:**
-    
     ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
     ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+    ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 
 - **[INSTAMUSIK Mobile Application](https://github.com/nataliaocmo/instamusik)**
-  - Social application for music enthusiasts to publish pictures, send messages, and share the music they are listening to.
+Social application for music enthusiasts to publish pictures, send messages, and share the music they are listening to.
   - **Technologies:**
     
     ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -88,7 +93,7 @@ My projects combine software development, data analytics, artificial intelligenc
     ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 
 - **[SweaterHub](https://github.com/nataliaocmo/sweaterhub)**
-- A mobile app that allows users to personalize hoodies with unique designs using external image APIs and their own photos. It also features an integrated virtual assistant that provides real-time support, combining creativity and technology for a seamless customization experience.
+A mobile app that allows users to personalize hoodies with unique designs using external image APIs and their own photos. It also features an integrated virtual assistant that provides real-time support, combining creativity and technology for a seamless customization experience.
 - **Technologies:**  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -98,34 +103,22 @@ My projects combine software development, data analytics, artificial intelligenc
 ![Objective--C](https://img.shields.io/badge/Objective--C-438EFF?style=flat&logo=apple&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
 
-#### Other Software Projects
-
-- **[Hospital Support System](YOUR_REPOSITORY_URL)**
-  - Java-based application project focused on hospital-related information and workflows.
-  - **Technologies:**
-    
-    ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-    ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
 ### Artificial Intelligence & Machine Learning
 
-- **[VitalIA](YOUR_VITALIA_REPOSITORY_URL)**
- - Machine learning project exploring decision-tree-based support for anticoagulated patient care.
+- **[VitalIA](https://github.com/nataliaocmo/VitalIA)**
+  Machine learning project exploring decision-tree-based support for anticoagulated patient care.
   - **Technologies:**
     ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
     ![Machine Learning](https://img.shields.io/badge/Machine_Learning-8A2BE2?style=flat-square)
     ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+    ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+    ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+    ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
   
-
-- **[Generative AI Experiments](YOUR_REPOSITORY_URL)**
-  - Exploring generative AI, large language models, and their applications to real-world problems.
-  - **Technologies:**
-    ![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=flat-square)
-    ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ### IoT, Arduino & Microcontrollers
 - **[AESA: IoT Monitoring System — Hof University](https://github.com/nataliaocmo/AESA)**
-  - IoT monitoring project combining hardware and software to collect and visualize data, using Google AI Studio during the software development   phase. Exploring the integration of hardware, sensors, and connected functionality
+  IoT monitoring project combining hardware and software to collect and visualize data, using Google AI Studio during the software development   phase. Exploring the integration of hardware, sensors, and connected functionality
   - **Technologies:**
     
     IoT, M5Stack, Sensors,
@@ -134,15 +127,13 @@ My projects combine software development, data analytics, artificial intelligenc
     ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
     ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-- **[Color Detection System](YOUR_REPOSITORY_URL)**
-  - Color detection system using a camera and RGB processing to interact with electronic components and display results.
+- **[Color Detection System](https://github.com/nataliaocmo/COLOR-DETECTOR)**
+  Color detection system using a camera and RGB processing to interact with electronic components and display results.
   - **Technologies:**
     
     ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
     ![Microcontrollers](https://img.shields.io/badge/Microcontrollers-607D8B?style=flat-square)
     `RGB Processing` `LEDs` `LCD`
-  - IoT-oriented project exploring the integration of hardware, sensors, and connected functionality.
-  - **Technologies:** IoT, M5Stack, Sensors
 
 ### Process Automation & Productivity
 

@@ -87,7 +87,7 @@ My projects combine software development, data analytics, artificial intelligenc
     ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
     ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 
-- **[SweaterHub]("https://github.com/nataliaocmo/sweaterhub")**
+- **[SweaterHub](https://github.com/nataliaocmo/sweaterhub)**
 - A mobile app that allows users to personalize hoodies with unique designs using external image APIs and their own photos. It also features an integrated virtual assistant that provides real-time support, combining creativity and technology for a seamless customization experience.
 - **Technologies:**  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)

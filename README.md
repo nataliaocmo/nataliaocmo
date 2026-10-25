@@ -107,31 +107,21 @@ My projects combine software development, data analytics, artificial intelligenc
 ### Artificial Intelligence & Machine Learning
 
 - **[VitalIA](YOUR_VITALIA_REPOSITORY_URL)**
-  - Software development project integrating artificial intelligence to build an AI-powered application.
+ - Machine learning project exploring decision-tree-based support for anticoagulated patient care.
   - **Technologies:**
-    
-    ![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-6A5ACD?style=flat-square)
-    ![Machine Learning](https://img.shields.io/badge/Machine_Learning-8A2BE2?style=flat-square)
-    ![Software Development](https://img.shields.io/badge/Software_Development-0078D4?style=flat-square)
-
-- **[Anticoagulated Patient Decision Support](YOUR_REPOSITORY_URL)**
-  - Machine learning project exploring decision-tree-based support for anticoagulated patient care.
-  - **Technologies:**
-    
     ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
     ![Machine Learning](https://img.shields.io/badge/Machine_Learning-8A2BE2?style=flat-square)
     ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+  
 
 - **[Generative AI Experiments](YOUR_REPOSITORY_URL)**
   - Exploring generative AI, large language models, and their applications to real-world problems.
   - **Technologies:**
-    
     ![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=flat-square)
     ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ### IoT, Arduino & Microcontrollers
-
-- **[IoT Monitoring System — Hof University](https://github.com/nataliaocmo/AESA)**
+- **[AESA: IoT Monitoring System — Hof University](https://github.com/nataliaocmo/AESA)**
   - IoT monitoring project combining hardware and software to collect and visualize data, using Google AI Studio during the software development phase.
   - **Technologies:**
     

@@ -56,7 +56,7 @@ My projects combine software development, data analytics, artificial intelligenc
     ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
     ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
--**[DNP dashboard - Inovasys](https://github.com/nataliaocmo/Innovasys-app)**
+- **[DNP dashboard - Inovasys](https://github.com/nataliaocmo/Innovasys-app)**
 web application prototype featuring a user interface for government entities, including an entity selection and login page, a main navigation menu, and an informational section. The project focuses on designing an organized and user-friendly interface to navigate between the platform's main sections.
 -**Technologies**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
